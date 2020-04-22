@@ -13,3 +13,6 @@ _pip install opencv-python_
 
 _pip install playsound_
 
+### Example 💶
+
+![ScreenShot](https://github.com/MarcoAtencio/FacialRecognition/blob/master/ElonMusk.png)
